@@ -1,0 +1,155 @@
+customer_id,plan,contract_type,tenure_months,monthly_charges,churn_probability,risk_tier,top_reasons,recommended_action
+C104712,Standard,Month-to-month,29,633.0,0.89,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101176,Standard,Month-to-month,15,749.0,0.833,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100192,Basic,Month-to-month,5,400.0,0.819,High,"Paying a lot per GB used; New customer, no contract",Offer a cheaper plan that matches actual usage
+C103050,Family,12-month,7,861.0,0.812,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103974,Basic,Month-to-month,33,406.0,0.796,High,Unresolved complaint; Usage dropped sharply; Repeated late payments,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103450,Premium,Month-to-month,2,1115.0,0.794,High,"Unresolved complaint; New customer, no contract",Escalate to a senior agent; close the open ticket within 48h and follow up
+C104046,Basic,Month-to-month,17,448.0,0.785,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104831,Basic,24-month,20,352.0,0.783,High,Unresolved complaint; Usage dropped sharply; Repeated complaints,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103630,Basic,Month-to-month,20,368.0,0.774,High,Usage dropped sharply; Paying a lot per GB used,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C103097,Standard,12-month,7,745.0,0.769,High,Unresolved complaint; Repeated complaints; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102643,Family,12-month,26,876.0,0.758,High,Unresolved complaint; Repeated late payments; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102006,Standard,12-month,13,747.0,0.757,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102219,Standard,Month-to-month,5,724.0,0.735,High,"Repeated late payments; Paying a lot per GB used; New customer, no contract",Offer a flexible due date and an auto-debit incentive
+C102418,Basic,Month-to-month,1,392.0,0.73,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C102272,Premium,Month-to-month,4,1180.0,0.712,High,"Unresolved complaint; New customer, no contract",Escalate to a senior agent; close the open ticket within 48h and follow up
+C104553,Premium,24-month,15,1134.0,0.712,High,Unresolved complaint; Repeated complaints; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100118,Standard,Month-to-month,27,674.0,0.711,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101951,Basic,Month-to-month,7,413.0,0.708,High,Unresolved complaint; Repeated late payments; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100067,Standard,Month-to-month,15,756.0,0.708,High,Repeated late payments; Recent bill increase,Offer a flexible due date and an auto-debit incentive
+C103313,Standard,24-month,51,693.0,0.707,High,Unresolved complaint; Repeated complaints; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101159,Premium,Month-to-month,17,1173.0,0.698,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104781,Family,12-month,9,906.0,0.689,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100441,Basic,Month-to-month,14,407.0,0.688,High,Repeated complaints,Proactive call from retention team; check for recurring network or billing fault
+C102807,Premium,Month-to-month,7,1311.0,0.684,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101202,Family,Month-to-month,14,891.0,0.684,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C104947,Premium,24-month,19,1249.0,0.683,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103109,Family,Month-to-month,8,1003.0,0.676,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C104953,Family,Month-to-month,24,918.0,0.675,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102393,Basic,Month-to-month,22,424.0,0.673,High,Unresolved complaint; Usage dropped sharply; Repeated late payments,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100134,Standard,12-month,24,598.0,0.667,High,Usage dropped sharply; Repeated late payments,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100283,Basic,Month-to-month,5,464.0,0.659,High,"Repeated late payments; New customer, no contract",Offer a flexible due date and an auto-debit incentive
+C102397,Basic,Month-to-month,4,398.0,0.659,High,"Repeated late payments; New customer, no contract",Offer a flexible due date and an auto-debit incentive
+C104590,Basic,Month-to-month,20,360.0,0.657,High,No single strong driver,Monitor; no action needed
+C102713,Basic,Month-to-month,11,370.0,0.655,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101582,Standard,Month-to-month,11,684.0,0.653,High,Unresolved complaint; Repeated late payments,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102253,Standard,Month-to-month,10,702.0,0.653,High,Usage dropped sharply; Heavy support contact,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100259,Standard,Month-to-month,4,657.0,0.651,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C104771,Standard,Month-to-month,7,704.0,0.649,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C104271,Standard,Month-to-month,30,768.0,0.648,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C104258,Family,Month-to-month,15,915.0,0.645,High,Unresolved complaint; Repeated complaints; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103780,Basic,Month-to-month,28,388.0,0.643,High,Paying a lot per GB used,Offer a cheaper plan that matches actual usage
+C100130,Basic,Month-to-month,4,422.0,0.643,High,"Usage dropped sharply; New customer, no contract",Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100150,Family,12-month,31,890.0,0.642,High,Unresolved complaint; Repeated complaints; Repeated late payments,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103731,Family,Month-to-month,16,1034.0,0.64,High,Unresolved complaint; Repeated complaints; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104512,Family,Month-to-month,14,915.0,0.64,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104700,Family,Month-to-month,15,857.0,0.64,High,Unresolved complaint; Repeated late payments; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101500,Premium,Month-to-month,4,1167.0,0.636,High,"Recent bill increase; New customer, no contract",Explain the charge; offer a goodwill credit or bill cap
+C102793,Family,Month-to-month,15,897.0,0.636,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C103086,Basic,Month-to-month,23,406.0,0.635,High,Unresolved complaint; Usage dropped sharply; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102345,Basic,Month-to-month,29,465.0,0.632,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104976,Standard,Month-to-month,10,743.0,0.63,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C103855,Basic,Month-to-month,18,373.0,0.626,High,No single strong driver,Monitor; no action needed
+C104769,Premium,Month-to-month,10,1212.0,0.624,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102627,Standard,Month-to-month,8,590.0,0.622,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104347,Family,Month-to-month,16,863.0,0.622,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C100321,Standard,Month-to-month,12,788.0,0.622,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C104774,Basic,Month-to-month,17,437.0,0.621,High,Usage dropped sharply; Recent bill increase; Paying a lot per GB used,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C102685,Premium,Month-to-month,6,1135.0,0.617,High,"Usage dropped sharply; New customer, no contract",Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101607,Basic,Month-to-month,13,411.0,0.617,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C102319,Family,Month-to-month,8,896.0,0.616,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C104442,Family,Month-to-month,10,923.0,0.614,High,Repeated complaints; Heavy support contact,Proactive call from retention team; check for recurring network or billing fault
+C101294,Standard,24-month,20,636.0,0.614,High,Repeated late payments,Offer a flexible due date and an auto-debit incentive
+C102215,Basic,Month-to-month,7,393.0,0.61,High,No single strong driver,Monitor; no action needed
+C101883,Premium,Month-to-month,26,1323.0,0.61,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101647,Premium,Month-to-month,10,1215.0,0.609,High,No single strong driver,Monitor; no action needed
+C104117,Family,24-month,22,840.0,0.607,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102688,Basic,Month-to-month,6,387.0,0.603,High,"Paying a lot per GB used; New customer, no contract",Offer a cheaper plan that matches actual usage
+C102395,Family,Month-to-month,11,924.0,0.596,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C104544,Standard,Month-to-month,9,640.0,0.595,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101563,Family,Month-to-month,6,871.0,0.588,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C102067,Family,Month-to-month,10,909.0,0.587,High,No single strong driver,Monitor; no action needed
+C100899,Standard,Month-to-month,19,732.0,0.587,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104482,Premium,Month-to-month,35,1073.0,0.586,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100943,Standard,Month-to-month,7,630.0,0.585,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102454,Standard,Month-to-month,35,712.0,0.584,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C101097,Family,Month-to-month,23,879.0,0.581,High,No single strong driver,Monitor; no action needed
+C100717,Basic,Month-to-month,6,374.0,0.581,High,"Paying a lot per GB used; New customer, no contract",Offer a cheaper plan that matches actual usage
+C101238,Basic,Month-to-month,11,466.0,0.58,High,Paying a lot per GB used,Offer a cheaper plan that matches actual usage
+C100776,Standard,Month-to-month,36,599.0,0.579,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C102409,Family,Month-to-month,32,989.0,0.579,High,Repeated late payments,Offer a flexible due date and an auto-debit incentive
+C101391,Family,Month-to-month,3,975.0,0.579,High,Unresolved complaint; Repeated complaints; Repeated late payments,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104583,Family,12-month,15,883.0,0.577,High,Usage dropped sharply; Recent bill increase,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100551,Basic,Month-to-month,1,398.0,0.575,High,"Recent bill increase; New customer, no contract",Explain the charge; offer a goodwill credit or bill cap
+C101698,Family,Month-to-month,15,804.0,0.572,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100716,Standard,Month-to-month,10,725.0,0.572,High,No single strong driver,Monitor; no action needed
+C102077,Basic,24-month,33,445.0,0.572,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102635,Standard,Month-to-month,1,738.0,0.569,High,"Unresolved complaint; New customer, no contract",Escalate to a senior agent; close the open ticket within 48h and follow up
+C100609,Standard,12-month,15,708.0,0.568,High,Unresolved complaint; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101858,Basic,12-month,12,384.0,0.568,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C100831,Standard,Month-to-month,19,767.0,0.565,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101367,Basic,Month-to-month,23,439.0,0.562,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100763,Basic,Month-to-month,10,404.0,0.56,High,Usage dropped sharply; Paying a lot per GB used,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100555,Basic,Month-to-month,10,387.0,0.559,High,Paying a lot per GB used,Offer a cheaper plan that matches actual usage
+C103167,Basic,Month-to-month,2,436.0,0.559,High,"Unresolved complaint; New customer, no contract",Escalate to a senior agent; close the open ticket within 48h and follow up
+C103111,Basic,Month-to-month,21,449.0,0.556,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101329,Basic,12-month,31,362.0,0.555,High,Unresolved complaint; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102738,Premium,Month-to-month,39,1197.0,0.555,High,Usage dropped sharply; Repeated late payments,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101851,Family,24-month,24,976.0,0.555,High,Unresolved complaint; Repeated complaints; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101663,Basic,Month-to-month,8,390.0,0.554,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C101323,Premium,Month-to-month,19,1221.0,0.554,High,Repeated late payments; Recent bill increase,Offer a flexible due date and an auto-debit incentive
+C102420,Basic,Month-to-month,52,428.0,0.552,High,Unresolved complaint; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103739,Standard,Month-to-month,22,696.0,0.552,High,Usage dropped sharply; Recent bill increase,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C103431,Standard,12-month,16,724.0,0.551,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C102315,Basic,Month-to-month,1,429.0,0.551,High,"Repeated late payments; New customer, no contract",Offer a flexible due date and an auto-debit incentive
+C102487,Family,Month-to-month,7,804.0,0.55,High,No single strong driver,Monitor; no action needed
+C101230,Basic,12-month,17,396.0,0.548,High,Unresolved complaint; Repeated complaints,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103729,Premium,12-month,19,1463.0,0.547,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C102665,Family,Month-to-month,6,804.0,0.546,High,"Repeated late payments; New customer, no contract",Offer a flexible due date and an auto-debit incentive
+C104470,Family,Month-to-month,30,973.0,0.544,High,No single strong driver,Monitor; no action needed
+C100739,Standard,Month-to-month,18,714.0,0.544,High,Unresolved complaint; Repeated complaints,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101138,Basic,24-month,22,389.0,0.544,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102195,Family,24-month,27,910.0,0.539,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C103591,Standard,Month-to-month,18,694.0,0.539,High,Unresolved complaint; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104153,Standard,Month-to-month,12,695.0,0.538,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103947,Basic,Month-to-month,3,368.0,0.537,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C101246,Standard,Month-to-month,22,774.0,0.534,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C103384,Basic,24-month,12,427.0,0.532,High,Unresolved complaint; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104039,Family,24-month,24,869.0,0.532,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100199,Standard,Month-to-month,5,663.0,0.531,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C100890,Standard,Month-to-month,8,755.0,0.531,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C102442,Basic,Month-to-month,23,396.0,0.529,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C100394,Basic,Month-to-month,13,438.0,0.529,High,Paying a lot per GB used,Offer a cheaper plan that matches actual usage
+C101465,Premium,12-month,19,1215.0,0.529,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C101090,Basic,Month-to-month,2,369.0,0.528,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C104422,Standard,Month-to-month,12,762.0,0.527,High,Unresolved complaint,Escalate to a senior agent; close the open ticket within 48h and follow up
+C102895,Basic,Month-to-month,12,355.0,0.527,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C101403,Standard,Month-to-month,8,658.0,0.526,High,No single strong driver,Monitor; no action needed
+C104621,Family,Month-to-month,19,893.0,0.523,High,No single strong driver,Monitor; no action needed
+C104970,Standard,12-month,16,710.0,0.522,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104475,Premium,Month-to-month,22,1242.0,0.521,High,Usage dropped sharply; Recent bill increase,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C102090,Standard,Month-to-month,16,670.0,0.521,High,No single strong driver,Monitor; no action needed
+C104725,Standard,Month-to-month,22,638.0,0.521,High,Usage dropped sharply; Paying a lot per GB used,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C100709,Standard,Month-to-month,19,638.0,0.52,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C104681,Basic,Month-to-month,57,425.0,0.519,High,Unresolved complaint; Usage dropped sharply; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C101699,Premium,Month-to-month,7,1005.0,0.517,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101442,Basic,12-month,5,395.0,0.516,High,Unresolved complaint; Recent bill increase,Escalate to a senior agent; close the open ticket within 48h and follow up
+C104023,Family,12-month,24,876.0,0.514,High,Unresolved complaint; Usage dropped sharply,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100032,Standard,Month-to-month,77,687.0,0.514,High,No single strong driver,Monitor; no action needed
+C103765,Premium,Month-to-month,113,1265.0,0.514,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C100893,Basic,Month-to-month,35,427.0,0.514,High,Unresolved complaint; Repeated complaints; Paying a lot per GB used,Escalate to a senior agent; close the open ticket within 48h and follow up
+C100286,Basic,Month-to-month,72,404.0,0.513,High,Repeated late payments; Recent bill increase,Offer a flexible due date and an auto-debit incentive
+C103589,Basic,Month-to-month,16,420.0,0.511,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C102402,Premium,Month-to-month,5,1171.0,0.511,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C103377,Family,Month-to-month,23,905.0,0.51,High,No single strong driver,Monitor; no action needed
+C104485,Basic,Month-to-month,10,398.0,0.509,High,Recent bill increase; Paying a lot per GB used,Explain the charge; offer a goodwill credit or bill cap
+C101875,Premium,Month-to-month,22,1168.0,0.508,High,Recent bill increase,Explain the charge; offer a goodwill credit or bill cap
+C104133,Standard,Month-to-month,5,613.0,0.506,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
+C104982,Standard,Month-to-month,7,698.0,0.505,High,No single strong driver,Monitor; no action needed
+C100480,Standard,Month-to-month,14,600.0,0.505,High,No single strong driver,Monitor; no action needed
+C104658,Standard,Month-to-month,6,692.0,0.504,High,"Usage dropped sharply; New customer, no contract",Check network quality in their area; offer a right-sized plan or loyalty data booster
+C104610,Family,12-month,18,997.0,0.504,High,Usage dropped sharply; Recent bill increase,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C101254,Basic,12-month,19,378.0,0.503,High,Unresolved complaint; Heavy support contact,Escalate to a senior agent; close the open ticket within 48h and follow up
+C103358,Premium,Month-to-month,33,1109.0,0.501,High,Usage dropped sharply,Check network quality in their area; offer a right-sized plan or loyalty data booster
+C103577,Basic,Month-to-month,5,381.0,0.5,High,"New customer, no contract",Onboarding check-in; offer a discount for a 12-month commitment
